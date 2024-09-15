@@ -1,4 +1,6 @@
-## Hi there 👋
+# Howdy How my name is Zach 
+
+Coding is FUN!
 
 <!--
 **wackooswami/wackooswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
